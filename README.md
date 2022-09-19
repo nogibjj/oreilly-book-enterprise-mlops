@@ -21,3 +21,5 @@ A central location to share recipes around MLOps for the O'Reilly book implement
 
 * [Read Implementing MLOps in the Enterprise on O'Reilly](https://learning.oreilly.com/library/view/implementing-mlops-in/9781098136574/)
 * [Read Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
+* ML Certification Repos
+* Kubernetes Repo
