@@ -9,13 +9,13 @@ A central location to share recipes around MLOps for the O'Reilly book implement
 
 * [Assimilate Hugging Face](https://github.com/nogibjj/assimilate-hugging-face)
 * [Assimilate OpenAI](https://github.com/nogibjj/assimilate-openai)
-* [heuristics](https://github.com/nogibjj/heuristics)
+* [heuristics](https://github.com/nogibjj/heuristics) 
   - [correlation recommender heuristic](https://github.com/nogibjj/heuristics/blob/main/heuristics/correlation_recommender_system.py)
 
 ## To Do/In Progress
 
 * Flush out Github Ecosystem Story for book
-* Flush out information about Heuristics in Problem Framing
+* Flush out information about Heuristics in Problem Framing and Find More Heuristics Examples for Bootstrapping the cold-start problem.
 
 ## References
 
