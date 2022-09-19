@@ -5,6 +5,18 @@ A central location to share recipes around MLOps for the O'Reilly book implement
 
 ## Chapters
 
+
+### Chapter 8:  Building a Scalable Deep Learning Project
+
+#### Key Topics
+
+* Deciding on the Correct Storage Foundation for DL
+* Identifying Build vs Buy Solutions for Training DL models
+* Data Labeling and Tagging
+* Tooling and Training Automation (i.e. Tensorboard, Monitoring, Metrics)
+* ‘Build Once Deploy Many’ Strategy for Deployment of DL Models
+* Monitoring DL Models and Handling Unstructured Data
+
 ### Chapter 10:  Solutions for Common Use Cases
 
 * [Assimilate Hugging Face](https://github.com/nogibjj/assimilate-hugging-face)
